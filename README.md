@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![DNE Digital Preview](https://startbootstrap.com/assets/img/templates/grayscale.jpg)](https://www.dne.digital)
+[![DNE Digital Preview](https://dne.digital/img/downloads-bg.jpg)](https://www.dne.digital)
 
 **[View Live Preview](https://www.dne.digital)**
 
