@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![DNE Digital Preview](https://dne.digital/img/downloads-bg.jpg)](https://www.dne.digital)
+[![DNE Digital Preview](https://dne.digital/assets/img/downloads-bg.jpg)](https://www.dne.digital)
 
 **[View Live Preview](https://www.dne.digital)**
 
